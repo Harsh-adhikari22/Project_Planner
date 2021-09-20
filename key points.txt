@@ -1,0 +1,60 @@
+Key Features
+
+
+Point to focus on:
+Promoting startup culture: Allowing students of the institution to create their custom skill-based profile to make collaboration easier and more efficient
+Research opportunities: Giving details about the labs in the college and the people controlling those labs. Proper timings of these labs along with the availability of equipment over there.
+Collaboration with seniors: Giving a platform for juniors to allow easy talk with seniors (especially helpful for freshers).
+Society based section pertaining to the events being conducted by the society. Our aim is to bring the societies together to collaborate and conduct events in a well-structured manner with proper scheduling.
+CR profile- special tools for the CRs of the class-
+Creating polls then and there
+Announcements
+Feed section- portraying the ongoing events and blogs. Students can self-promote their skills and share them with all (maybe give a like feature), to make it more interesting.
+// Photos- events, college fests, random pics of college (just to draw attention).
+// Inspiration quotes- supporting mental should be concern
+ 
+Blog section :- 
+People with ids can send or react to texts etc. Others can react Plus according to the tags used in here  Needy people will be recommended these posts in their blog feed.
+
+ Is Week Major Goal :-
+
+Page Layout
+
+Login/signup Page and homepage - Done by rishabh 
+Try designing anyone of the following
+
+Blog/Feed page setup
+Bifurcation of how our pages will be linked
+Calendar page
+Admin page
+Societies page
+
+Any other additions or ideas which you want are completely welcome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
